@@ -1,0 +1,29 @@
+1. Login dengan memasukan data yang ada di note account
+Edwin = nama
+mydwin = username
+1255 = pin
+
+2. Masukkan lagu yang ada di note music ke folder music
+dengan format nama dapat disesuaikan dengan note music
+formatnya paling akhir 
+nama penyanyi-nama lagu
+
+begitu pula untuk movie
+
+
+3.Lagu yang ditampilkan di home adalah lagu terpopuler, dilihat dari seberapa banyak lagu tersebut dimainkan oleh semua akun yang dibuat
+
+4. Dengan membuka menu extra, kita bisa membeli lagu/film dan memainkan lagu/film dalam folder music/movie yang tersedia
+
+5. tab my music/my movie memuat daftar lagu/film yang kita miliki
+
+6. Jika ingin menambahkan lagu/film bisa menambahkan ke note music/note movie dengan format
+Namalagu#Penyanyi#Tahun#Album#Negara#Juduldalamfoldermusik#jumlahdimainkan#statuskepemilikanlagu
+2 sudah dimiliki
+1 belum dimiliki
+
+Untuk movie formatnya
+judulfilm#tahun#negara#rating#statuskepemilikan
+
+
+Folder intones dapat diletakan di directory D:
